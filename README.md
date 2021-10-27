@@ -10,7 +10,6 @@
 
 📫 Resume - [Srikanth_Resume.pdf](https://github.com/srikanth-vnts/srikanth-vnts/files/7417641/Srikanth_Resume.pdf)
 
-📫 How to rech me - srikanth.vs12@gmail.com
 
 #### Profile Visits 
 

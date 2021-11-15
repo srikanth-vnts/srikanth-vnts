@@ -6,7 +6,7 @@
 
 📫 How to reach me - srikanth.vs12@gmail.com
 
-📫 Portfolio - https://portfolio-srikanth-vnts-portfolio.vercel.app/
+📫 Portfolio - https://srikanth-portfolio.vercel.app/
 
 📫 Resume - [Srikanth_Resume.pdf](https://github.com/srikanth-vnts/srikanth-vnts/files/7417641/Srikanth_Resume.pdf)
 
